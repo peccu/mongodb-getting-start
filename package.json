@@ -1,0 +1,11 @@
+{
+  "name": "mongodb-getting-start",
+  "version": "1.0.0",
+  "description": "tutorial source code from https://docs.mongodb.org/getting-started/node/",
+  "dependencies": {
+    "mongodb": "^2.0.42"
+  },
+  "devDependencies": {},
+  "author": "",
+  "license": "MIT"
+}
